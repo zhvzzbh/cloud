@@ -186,9 +186,9 @@ body {
     margin-top: 2px;
 }
 
-.p1 {
+.nome-musica {
     margin-top: 23px;
-    margin-right: 8px;
+    margin-right: 70px;
     color: #cecece;
 }
 
@@ -211,7 +211,7 @@ body {
     color: #7c7c7c;
 }
 
-.demo {
+.nome-album {
     margin-left: 3px;
     color: #cecece;
 }
@@ -221,7 +221,7 @@ body {
     color: #7c7c7c;
 }
 
-.vsself {
+.artista {
     margin-left: 3px;
     color: #cecece;
 }
